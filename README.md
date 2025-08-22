@@ -1,3 +1,3 @@
 # thesupertechie.github.io
 My dev site :)
-See the [](LICENSE) file for more information about the license of this site.
+See the [LICENSE](LICENSE) file for more information about the license of this site.
