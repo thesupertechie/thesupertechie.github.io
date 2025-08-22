@@ -1,3 +1,4 @@
 Unless otherwise noted:
-- ALL code in this repository is licensed under the GNU General Public License 3.0 (GPL 3.0); see the file LICENSE-CODE for details.
-- ALL content, which strictly refers to images, text, and any other parts that make up this website that would not constitute code, is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA 4.0) license; see the file LICENSE-CONTENT for info.
+- ALL code is licensed under the GNU Affero General Public License 3.0 (AGPL-3.0); see the file LICENSE-CODE for full terms.
+- ALL content, which strictly refers to images, text, and any other parts that make up this website that would not constitute code, is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA 4.0) license; see the file LICENSE-CONTENT for full terms.
+This restriction applies to both the contents of the website and the repository that consists of its contents.
